@@ -1,0 +1,36 @@
+G,Date,Time,Type,,Opponent,Conf,SRS,,Tm,Opp,OT,W,L,Streak,Arena
+1,Mon Nov 7 2022,7:30p,REG,@,Mississippi State,SEC,11.43,L,44,63,,0,1,L 1,Humphrey Coliseum
+2,Fri Nov 11 2022,8:00p,REG,,UTSA,CUSA,-7.74,W,75,55,,1,1,W 1,Dugan Wellness Center
+3,Mon Nov 14 2022,8:00p,REG,,Trinity (TX),,,W,91,73,,2,1,W 2,American Bank Center
+4,Thu Nov 17 2022,8:00p,REG,,Texas-Rio Grande Valley,WAC,-6.48,W,97,75,,3,1,W 3,American Bank Center
+5,Tue Nov 22 2022,6:00p,REG,N,Cal State Bakersfield,Big West,-8.34,L,63,73,,3,2,L 1,Don Haskins Center
+6,Wed Nov 23 2022,6:00p,REG,N,Alcorn State,SWAC,-8.74,W,98,67,,4,2,W 1,Don Haskins Center
+7,Fri Nov 25 2022,4:00p,REG,@,UTEP,CUSA,-0.74,L,67,72,,4,3,L 1,Don Haskins Center
+8,Wed Nov 30 2022,7:30p,REG,@,Texas-Rio Grande Valley,WAC,-6.48,L,82,89,,4,4,L 2,UTRGV Fieldhouse
+9,Wed Dec 7 2022,8:00p,REG,,Texas Lutheran,,,W,100,63,,5,4,W 1,American Bank Center
+10,Tue Dec 13 2022,8:30p,REG,@,Arizona(9),Pac-12,19.08,L,61,99,,5,5,L 1,McKale Center
+11,Fri Dec 16 2022,12:00p,REG,,Schreiner,,,W,104,69,,6,5,W 1,Dugan Wellness Center
+12,Tue Dec 20 2022,3:00p,REG,@,Oklahoma State,Big 12,12.62,L,58,81,,6,6,L 1,Gallagher-Iba Arena
+13,Wed Dec 28 2022,5:00p,REG,,Our Lady of the Lake,,,W,88,74,,7,6,W 1,Dugan Wellness Center
+14,Sat Dec 31 2022,3:30p,REG,@,Northwestern State,Southland,-4.72,W,65,59,,8,6,W 2,Prather Coliseum
+15,Wed Jan 4 2023,8:30p,REG,,Incarnate Word,Southland,-15.06,W,91,61,,9,6,W 3,Dugan Wellness Center
+16,Sat Jan 7 2023,5:00p,REG,@,Incarnate Word,Southland,-15.06,W,80,71,,10,6,W 4,McDermott Center
+17,Thu Jan 12 2023,8:30p,REG,,Southeastern Louisiana,Southland,-8.00,L,82,85,OT,10,7,L 1,American Bank Center
+18,Sat Jan 14 2023,4:30p,REG,,New Orleans,Southland,-14.23,W,97,79,,11,7,W 1,American Bank Center
+19,Thu Jan 19 2023,8:00p,REG,@,Lamar,Southland,-17.40,L,66,68,,11,8,L 1,Montagne Center
+20,Sat Jan 21 2023,8:00p,REG,@,Houston Christian,Southland,-17.18,L,78,90,,11,9,L 2,Frank and Lucille Sharp Gymnasium
+21,Thu Jan 26 2023,8:30p,REG,,Nicholls State,Southland,-8.54,W,96,86,,12,9,W 1,American Bank Center
+22,Sat Jan 28 2023,4:30p,REG,,McNeese State,Southland,-13.63,W,83,72,,13,9,W 2,American Bank Center
+23,Thu Feb 2 2023,8:00p,REG,@,New Orleans,Southland,-14.23,W,86,69,,14,9,W 3,Kiefer Lakefront Arena
+24,Sat Feb 4 2023,12:00p,REG,@,Southeastern Louisiana,Southland,-8.00,W,83,72,,15,9,W 4,University Center
+25,Thu Feb 9 2023,8:30p,REG,,Houston Christian,Southland,-17.18,W,91,68,,16,9,W 5,American Bank Center
+26,Sat Feb 11 2023,4:30p,REG,,Lamar,Southland,-17.40,W,61,52,,17,9,W 6,American Bank Center
+27,Thu Feb 16 2023,8:00p,REG,@,Nicholls State,Southland,-8.54,W,78,74,,18,9,W 7,David Stopher Gymnasium
+28,Sat Feb 18 2023,4:30p,REG,@,McNeese State,Southland,-13.63,W,77,54,,19,9,W 8,The Legacy Center
+29,Thu Feb 23 2023,8:30p,REG,,East Texas A&M,Southland,-11.09,L,80,84,,19,10,L 1,American Bank Center
+30,Sat Feb 25 2023,5:30p,REG,,Northwestern State,Southland,-4.72,W,83,75,,20,10,W 1,American Bank Center
+31,Wed Mar 1 2023,9:00p,REG,@,East Texas A&M,Southland,-11.09,W,93,88,OT,21,10,W 2,Texas A&M–Commerce Field House
+32,Tue Mar 7 2023,6:30p,CTOURN,@,McNeese State,Southland,-13.63,W,80,63,,22,10,W 3,The Legacy Center
+33,Wed Mar 8 2023,5:00p,CTOURN,N,Northwestern State,Southland,-4.72,W,75,71,,23,10,W 4,The Legacy Center
+34,Tue Mar 14 2023,6:40p,NCAA,N,Southeast Missouri State,OVC,-7.40,W,75,71,,24,10,W 5,University of Dayton Arena
+35,Thu Mar 16 2023,2:45p,NCAA,N,Alabama(1),SEC,23.19,L,75,96,,24,11,L 1,Legacy Arena

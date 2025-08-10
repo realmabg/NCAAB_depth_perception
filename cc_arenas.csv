@@ -1,0 +1,3 @@
+School,Conference,Wall Number,Side,Distance,Type of Wall,Arena,Left_Wall,Right_Wall,Left_Wall_Distance,Right_Wall_Distance,Left_Wall_Type,Right_Wall_Type
+Texas A&M CC 1,Southland,2,Both,Close,Whole,Dugan Wellness Center,True,True,Close,Close,Whole,Whole
+Texas A&M-Corpus Christi,Southland,1,Left,Far,Mix,American Bank Center Arena,True,False,Far,,Mix,

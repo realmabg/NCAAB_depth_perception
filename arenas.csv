@@ -1,0 +1,55 @@
+School,Conference,Wall Number,Side,Distance,Type of Wall,Arena,Left_Wall,Right_Wall,Left_Wall_Distance,Right_Wall_Distance,Left_Wall_Type,Right_Wall_Type
+UC San Diego,Big West,1,Right,Close,Whole,LionTree Arena,False,True,,Close,,Whole
+UC Irvine,Big West,1,Left,Far,Mix,Bren Events Center,True,False,Far,,Mix,
+UC Riverside,Big West,2,Both,Close,Whole,UC Riverside Student Recreation Center,True,True,Close,Close,Whole,Whole
+Cal State Northridge,Big West,2,Both,Close,Whole,Premier America Credit Union Arena,True,True,Close,Close,Whole,Whole
+UC Santa Barbara,Big West,0,,,,UC Santa Barbara Events Center,False,False,,,,
+UC Davis,Big West,0,,,,University Credit Union Center,False,False,,,,
+Cal Poly,Big West,2,Both,Far,Mix,Robert A. Mott Athletics Center,True,True,Far,Far,Mix,Mix
+Cal State Bakersfield,Big West,2,Both,Close,Whole,Icardo Center,True,True,Close,Close,Whole,Whole
+Hawaii,Big West,0,,,,Stan Sheriff Center,False,False,,,,
+Long Beach State,Big West,1,Left,Far,Mix,Walter Pyramid,True,False,Far,,Mix,
+Cal State Fullerton,Big West,0,,,,Titan Gym,False,False,,,,
+San Jose State,Mountain West,1,Left,Far,Whole,Provident Credit Union Event Center,True,False,Far,,Whole,
+New Mexico,Mountain West,0,,,,The Pit,False,False,,,,
+Colorado State,Mountain West,0,,,,Moby Arena,False,False,,,,
+Utah State,Mountain West,0,,,,Smith Spectrum,False,False,,,,
+Boise State,Mountain West,0,,,,ExtraMile Arena,False,False,,,,
+San Diego State,Mountain West,0,,,,Viejas Arena,False,False,,,,
+UNLV men,Mountain West,0,,,,Thomas & Mack Center,False,False,,,,
+Nevada,Mountain West,0,,,,Lawlor Events Center,False,False,,,,
+Wyoming,Mountain West,0,,,,Arena-Auditorium,False,False,,,,
+Fresno State,Mountain West,0,,,,Save Mart Center at Fresno State,False,False,,,,
+Air Force,Mountain West,0,,,,Clune Arena,False,False,,,,
+East Texas A&M,Southland,2,Both,Mix,Mix,The Field House,True,True,Close,Far,Whole,Mix
+McNeese,Southland,0,,,,The Legacy Center,False,False,,,,
+Lamar,Southland,0,,,,Neches Federal Credit Union Arena at the Montagne Center,False,False,,,,
+Nicholls,Southland,2,Both,Far,Whole,Stopher Gymnasium,True,True,Far,Far,Whole,Whole
+Northwestern,Southland,1,Left,Far,Mix,Welsh–Ryan Arena,True,False,Far,,Mix,
+Texas A&M CC 1,Southland,2,Both,Close,Whole,Dugan Wellness Center,True,True,Close,Close,Whole,Whole
+Texas A&M-Corpus Christi,Southland,1,Left,Far,Mix,American Bank Center Arena,True,False,Far,,Mix,
+Southeastern Louisiana,Southland,0,,,,University Center,False,False,,,,
+Incarnate Word,Southland,2,Both,Close,Whole,McDermott Center,True,True,Close,Close,Whole,Whole
+Houston Christian,Southland,1,Right,Close,Whole,Sharp Gymnasium,False,True,,Close,,Whole
+UTRGV,Southland,2,Both,Close,Whole,UTRGV Fieldhouse,True,True,Close,Close,Whole,Whole
+Stephen F. Austin,Southland,0,,,,William R. Johnson Coliseum,False,False,,,,
+New Orleans,Southland,0,,,,Lakefront Arena,False,False,,,,
+Pepperdine,West Coast,2,Both,Close,Whole,Firestone Fieldhouse,True,True,Close,Close,Whole,Whole
+Pacific,West Coast,0,,,,Alex G. Spanos Center,False,False,,,,
+San Diego,West Coast,0,,,,Jenny Craig Pavilion,False,False,,,,
+Portland,West Coast,2,Both,Close,Mix,Chiles Center,True,True,Close,Close,Mix,Mix
+Loyola Marymount,West Coast,2,Both,Close,Whole,Gersten Pavilion,True,True,Close,Close,Whole,Whole
+Washington State,West Coast,0,,,,Beasley Coliseum,False,False,,,,
+Oregon State,West Coast,0,,,,Gill Coliseum,False,False,,,,
+Santa Clara,West Coast,0,,,,Leavey Center,False,False,,,,
+San Francisco,West Coast,2,Both,Far,Mix,The Sobrato Center,True,True,Far,Far,Mix,Mix
+Gonzaga,West Coast,0,,,,McCarthey Athletic Center,False,False,,,,
+Saint Mary's,West Coast,2,Both,Close,Mix,University Credit Union Pavilion,True,True,Close,Close,Mix,Whole
+Columbia,Ivy League,2,Both,Close,Whole,Levien Gymnasium,True,True,Close,Close,Whole,Whole
+Penn,Ivy League,0,,,,Palestra,False,False,,,,
+Brown,Ivy League,0,,,,Pizzitola Sports Center,False,False,,,,
+Harvard,Ivy League,2,Both,Close,Whole,Lavietes Pavilion,True,True,Close,Close,Whole,Whole
+Dartmouth,Ivy League,2,Both,Close,Mix,Leede Arena,True,True,Close,Close,Whole,Mix
+Princeton,Ivy League,0,,,,Jadwin Gymnasium,False,False,,,,
+Cornell,Ivy League,2,Both,Far,Mix,Newman Arena,True,True,Far,Far,Mix,Mix
+Yale,Ivy League,2,Both,Far,Mix,John J. Lee Amphitheater,True,True,Far,Far,Mix,Mix

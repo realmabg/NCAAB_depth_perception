@@ -1,0 +1,36 @@
+G,Date,Time,Type,,Opponent,Conf,SRS,,Tm,Opp,OT,W,L,Streak,Arena
+1,Tue Nov 9 2021,8:00p,REG,,Texas Lutheran,,,W,102,64,,1,0,W 1,American Bank Center
+2,Sun Nov 14 2021,3:00p,REG,@,Texas A&M,SEC,12.93,L,65,86,,1,1,L 1,Reed Arena
+3,Tue Nov 16 2021,6:00p,REG,N,IU Indy,Horizon,-23.61,W,65,59,,2,1,W 1,Convocation Center
+4,Wed Nov 17 2021,2:00p,REG,N,Denver,Summit,-10.12,W,69,67,,3,1,W 2,Convocation Center
+5,Sun Nov 21 2021,4:00p,REG,@,UTSA,CUSA,-10.46,W,77,58,,4,1,W 3,Convocation Center
+6,Sat Nov 27 2021,3:00p,REG,,St. Mary's (TX),,,W,88,73,,5,1,W 4,American Bank Center
+7,Wed Dec 1 2021,8:00p,REG,@,Texas-Rio Grande Valley,WAC,-10.18,W,83,77,,6,1,W 5,UTRGV Fieldhouse
+8,Sat Dec 4 2021,3:00p,REG,,Southwestern (TX),,,W,111,60,,7,1,W 6,American Bank Center
+9,Wed Dec 8 2021,8:00p,REG,,Texas-Rio Grande Valley,WAC,-10.18,W,75,69,,8,1,W 7,American Bank Center
+10,Sat Dec 11 2021,8:00p,REG,@,Omaha,Summit,-16.99,W,87,73,,9,1,W 8,Baxter Arena
+11,Tue Dec 14 2021,8:00p,REG,@,Minnesota,Big Ten,5.93,L,71,79,,9,2,L 1,Williams Arena
+12,Sat Dec 18 2021,1:00p,REG,,Lamar,WAC,-15.86,W,57,53,,10,2,W 1,American Bank Center
+13,Wed Dec 22 2021,1:00p,REG,@,Notre Dame,ACC,11.87,L,73,83,,10,3,L 1,Purcell Pavilion at the Joyce Center
+14,Fri Dec 31 2021,1:00p,REG,,Sul Ross State,,,W,101,49,,11,3,W 1,American Bank Center
+15,Thu Jan 6 2022,6:00p,REG,N,Northwestern State,Southland,-14.06,W,89,67,,12,3,W 2,Merrell Center
+16,Fri Jan 7 2022,8:30p,REG,N,Nicholls State,Southland,-3.62,L,75,84,,12,4,L 1,Merrell Center
+17,Sat Jan 8 2022,6:00p,REG,N,McNeese State,Southland,-11.76,W,67,54,,13,4,W 1,Merrell Center
+18,Sat Jan 15 2022,4:30p,REG,,Incarnate Word,Southland,-17.03,W,80,64,,14,4,W 2,American Bank Center
+19,Thu Jan 20 2022,8:30p,REG,,McNeese State,Southland,-11.76,W,60,56,,15,4,W 3,American Bank Center
+20,Sat Jan 22 2022,4:30p,REG,,Houston Christian,Southland,-14.47,L,71,77,,15,5,L 1,American Bank Center
+21,Thu Jan 27 2022,9:00p,REG,@,Southeastern Louisiana,Southland,-9.03,W,86,71,,16,5,W 1,University Center
+22,Sat Jan 29 2022,4:00p,REG,@,Northwestern State,Southland,-14.06,L,76,90,,16,6,L 1,Prather Coliseum
+23,Thu Feb 3 2022,8:30p,REG,,New Orleans,Southland,-7.88,L,70,79,,16,7,L 2,American Bank Center
+24,Thu Feb 10 2022,8:00p,REG,@,New Orleans,Southland,-7.88,L,69,78,,16,8,L 3,Kiefer Lakefront Arena
+25,Sat Feb 12 2022,4:00p,REG,@,Nicholls State,Southland,-3.62,L,80,83,OT,16,9,L 4,David Stopher Gymnasium
+26,Thu Feb 17 2022,8:30p,REG,,Southeastern Louisiana,Southland,-9.03,L,74,83,,16,10,L 5,American Bank Center
+27,Sat Feb 19 2022,6:00p,REG,,Northwestern State,Southland,-14.06,W,83,76,,17,10,W 1,American Bank Center
+28,Thu Feb 24 2022,8:30p,REG,@,McNeese State,Southland,-11.76,W,65,53,,18,10,W 2,The Legacy Center
+29,Sat Feb 26 2022,8:00p,REG,@,Houston Christian,Southland,-14.47,W,75,70,,19,10,W 3,Frank and Lucille Sharp Gymnasium
+30,Wed Mar 2 2022,8:30p,REG,,Nicholls State,Southland,-3.62,L,75,86,,19,11,L 1,American Bank Center
+31,Sat Mar 5 2022,5:00p,REG,@,Incarnate Word,Southland,-17.03,W,77,68,,20,11,W 1,McDermott Center
+32,Thu Mar 10 2022,6:00p,CTOURN,N,Houston Christian,Southland,-14.47,W,75,60,,21,11,W 2,Merrell Center
+33,Fri Mar 11 2022,6:00p,CTOURN,N,Nicholls State,Southland,-3.62,W,71,64,,22,11,W 3,Merrell Center
+34,Sat Mar 12 2022,9:30p,CTOURN,N,Southeastern Louisiana,Southland,-9.03,W,73,65,,23,11,W 4,Merrell Center
+35,Tue Mar 15 2022,6:40p,NCAA,N,Texas Southern,SWAC,-3.30,L,67,76,,23,12,L 1,University of Dayton Arena
